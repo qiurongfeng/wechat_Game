@@ -87,3 +87,4 @@ pip install -r requirements.txt
 可以对拉上来的图片进行颜色分割，识别小人和目标中心，这样就不需要手动点击自动弹跳。
 事实证明，机器人比人更会玩儿游戏。
 
+# wechat_Game
